@@ -1,3 +1,25 @@
 <resources>
     <string name="app_name">ColDes</string>
+    <string name="button_find_description">Определить цвет</string>
+    <string-array name="colors">
+        <item>Красный</item>
+        <item>Оранжевый</item>
+        <item>Желтый</item>
+        <item>Зелёный</item>
+        <item>Голубой</item>
+        <item>Синий</item>
+        <item>Фиолетовый</item>
+        <item>Чёрный</item>
+    </string-array>
+    
+    <string-array name="description_of_temp">
+        <item>Тут должно быть описание красного цвета</item>
+        <item>Тут должно быть описание оранжевого цвета</item>
+        <item>Тут должно быть описание желтого цвета</item>
+        <item>Тут должно быть описание зеленого цвета</item>
+        <item>Тут должно быть описание голубого цвета</item>
+        <item>Тут должно быть описание синего цвета</item>
+        <item>Тут должно быть описание фиолетового цвета</item>
+        <item>Тут должно быть описание черного цвета</item>
+    </string-array>
 </resources>
