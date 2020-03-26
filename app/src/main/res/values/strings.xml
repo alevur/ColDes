@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">ColDes</string>
     <string name="button_find_description">Определить цвет</string>
+    <string name="button_send">Добавить</string>
+    <string name="hint_enter_message">Введите сообщение</string>
     <string-array name="colors">
         <item>Красный</item>
         <item>Оранжевый</item>
