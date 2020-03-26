@@ -29,4 +29,7 @@ public class MainActivity extends AppCompatActivity {
         String [] description = getResources().getStringArray(R.array.description_of_temp);
         return description[position];
     }
+
+    public void onClickSendMsg(View view) {
+    }
 }
